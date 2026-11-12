@@ -4,7 +4,7 @@
 
 I build REST APIs, database-backed web apps and ML systems. Currently looking for **SDE / backend / full-stack roles**.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -20,7 +20,7 @@ I build REST APIs, database-backed web apps and ML systems. Currently looking fo
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - **TrackHire** – Full-stack job tracker with JWT auth, per-user data isolation, Gemini-powered AI insights and Recharts dashboards. Deployed on Render + Vercel. *(React, Node, Express, PostgreSQL)*
 - **Student Academic Monitoring System** – Dashboard for attendance, leave, performance and exams, backed by REST APIs. *(React, FastAPI)*
@@ -28,25 +28,21 @@ I build REST APIs, database-backed web apps and ML systems. Currently looking fo
 - **Fuel Management System** – Real-time fuel monitoring, mileage estimation and nearby-station alerts. *(Embedded C, GPS)*
 - [**Student Risk Prediction System**](https://github.com/Rahul810-dev/student-risk-prediction-system) – Flags at-risk students from academic data. *(JavaScript, ML)*
 
-## 💼 Experience
+## Experience
 
 - **ML Research Intern, Mizoram University** (Jun 2024): benchmarked XGBoost, Random Forest and Bagging Regressor on real weather data, tuned using RMSE, MAE and R²
 - **Frontend Intern, Nexsofture** (Jun–Jul 2025): Angular + TypeScript, component architecture and routing
 
-## 🏆 Publications & Achievements
+## Publications & Achievements
 
-- 📄 **IEEE Xplore (i-PACT 2025):** Fuel Management System
-- 📚 **Co-author:** *Artificial Intelligence for Modern Defence Systems: Technologies, Applications and Future Warfare*, IIP Publishers, 2026
-- 🥇 **Most Innovative Solution**, Cognizant Techathon
-- 🎯 **Semi-Finalist**, EDII Hackathon (Tamil Nadu Government initiative)
-- 🏅 **4th Place**, Ideathon, Panimalar Engineering College
-- ✅ HackerRank (Java, SQL, Problem Solving) · NPTEL Java (Elite Silver) · IBM SkillsBuild AI Fundamentals
+- **IEEE Xplore (i-PACT 2025):** Fuel Management System
+- **Co-author:** *Artificial Intelligence for Modern Defence Systems: Technologies, Applications and Future Warfare*, IIP Publishers, 2026
+- **Most Innovative Solution**, Cognizant Techathon
+- **Semi-Finalist**, EDII Hackathon (Tamil Nadu Government initiative)
+- **4th Place**, Ideathon, Panimalar Engineering College
+- HackerRank (Java, SQL, Problem Solving) · NPTEL Java (Elite Silver) · IBM SkillsBuild AI Fundamentals
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Rahul810-dev&show_icons=true&theme=tokyonight&hide_border=true)
-
-## 📫 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-n-a0b5b9314)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://rahul810-dev.github.io/MyPortfolio)
